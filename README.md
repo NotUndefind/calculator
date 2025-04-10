@@ -60,12 +60,6 @@ src/
 
 ---
 
-## 🖼 Aperçu
-
-![Capture d’écran](./screenshot.png) <!-- Tu peux remplacer par une vraie capture -->
-
----
-
 ## 📝 Licence
 
-Ce projet est open source et sous licence [MIT](LICENSE).
+Ce projet est open source.
