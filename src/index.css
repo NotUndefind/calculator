@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+	background-image: linear-gradient(to bottom right, #333333 0%, black 100%);
+
+	width: 100%;
+}
+
+@theme {
+	--font-title: "Ballet";
+
+	--font-subtitle: "Imperial Script";
+}
